@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nature Legends</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div class="container">
+    <div class="left"></div>
+    <div class="right">
+      <h1>Nature Legends</h1>
+      <p class="intro">Organic. Honest. Wellness—Reimagined for You.</p>
+
+      <div class="section-title">Welcome!</div>
+      <div class="description">
+        Nature Legends is your personal guide into the world of organic, chemical-free beauty & wellness. Everything here is built with care, so you can trust every click.
+      </div>
+
+      <div class="pill-group">
+        <div class="pill explore"><i class="fas fa-compass"></i> Explore</div>
+        <div class="pill story"><i class="fas fa-feather-alt"></i> Our Story</div>
+        <div class="pill sustainability"><i class="fas fa-leaf"></i> Sustainability</div>
+        <div class="pill faqs"><i class="fas fa-question-circle"></i> FAQs</div>
+        <div class="pill reviews"><i class="fas fa-star"></i> Reviews</div>
+      </div>
+
+      <div class="footer">
+        <div class="section-title">Connect with us</div>
+        <div class="socials">
+          <a href="#"><i class="fab fa-x-twitter"></i></a>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+          <a href="#"><i class="fab fa-facebook"></i></a>
+          <a href="#"><i class="fas fa-envelope"></i></a>
+          <a href="#"><i class="fas fa-globe"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
